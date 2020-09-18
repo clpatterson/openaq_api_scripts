@@ -1,0 +1,895 @@
+country,city,monitor_type
+CI,Abidjan,pm25
+GH,Accra,"pm10, pm25"
+GH,Accra,"pm10, pm25"
+GH,Accra,"pm10, pm25"
+GH,Accra,"pm10, pm25"
+GH,Accra,"pm10, pm25"
+GH,Accra,"pm10, pm25"
+GH,Accra,"pm10, pm25"
+GH,Accra,"pm10, pm25"
+GH,Accra,"pm10, pm25"
+GH,Accra,"pm10, pm25"
+GH,Accra,"pm10, pm25"
+GH,Accra,pm25
+ET,Addis Ababa,pm25
+ET,Addis Ababa,pm25
+KE,Nairobi,"pm10, pm25"
+KE,Nairobi,"pm10, pm25"
+CN,Beijing,pm25
+CN,Beijing,pm25
+CN,Chengdu,pm25
+CN,Guangzhou,pm25
+CN,Shanghai,pm25
+TH,Bangkok,"co, no2, o3, pm10"
+TH,Bangkok,"co, no2, o3, pm10, so2"
+TH,Bangkok,"co, no2, o3, pm10, so2"
+TH,Bangkok,"co, no2, o3, pm10, so2"
+TH,Bangkok,"co, no2, o3, pm10, so2"
+TH,Bangkok,"co, no2, o3, pm10, so2"
+TH,Bangkok,"co, no2, o3, pm10, so2"
+TH,Bangkok,"no2, o3, pm10, so2"
+TH,Bangkok,"co, no2, o3, pm10, so2"
+TH,Bangkok,"co, no2, pm10"
+TH,Bangkok,"co, no2, o3, pm10, so2"
+TH,Bangkok,"no2, o3, pm10, so2"
+TH,Bangkok,"co, no2, o3, pm10, so2"
+TH,Bangkok,"co, no2, o3, pm10, so2"
+VN,Hanoi,pm25
+VN,Hanoi,pm25
+VN,Hanoi,pm25
+VN,Ho Chi Minh City,pm25
+VN,Ho Chi Minh City,pm25
+ID,Jakarta,pm25
+ID,Jakarta,pm25
+ID,Jakarta,pm25
+ID,Jakarta,pm25
+AU,Melbourne,"co, no2, o3, pm10, pm25, so2"
+AU,Melbourne,pm25
+AU,Melbourne,pm25
+AU,Melbourne,"pm10, pm25"
+AU,Melbourne,"pm10, pm25"
+AU,Melbourne,"pm10, pm25"
+AU,Melbourne,"no2, o3, pm10, pm25"
+AU,Melbourne,"co, no2, o3, pm10, pm25, so2"
+AU,Melbourne,pm25
+AU,Melbourne,pm25
+AU,Melbourne,"o3, pm10, pm25"
+US,Palm Bay-Melbourne-Titusville,o3
+US,Palm Bay-Melbourne-Titusville,"o3, pm10, pm25"
+SG,Singapore,pm25
+AU,Sydney East,"co, no2, o3, pm10, pm25, so2"
+AU,Sydney East,"co, no2, o3, pm10, pm25, so2"
+AU,Sydney East,"no2, o3, pm10, pm25, so2"
+AU,Sydney East,"co, no2, o3, so2"
+AU,Sydney East,"co, no2, o3, pm10, pm25, so2"
+AU,Sydney East,"co, no2, o3, pm10, pm25, so2"
+AU,Sydney East,"co, no2, o3, pm10, pm25, so2"
+AU,Sydney North-west,"co, no2, o3, pm10, pm25, so2"
+AU,Sydney North-west,"co, no2, o3, pm10, pm25, so2"
+AU,Sydney North-west,"co, no2, o3, pm10, pm25, so2"
+AU,Sydney North-west,"co, no2, o3, pm10, pm25, so2"
+AU,Sydney North-west,"no2, o3, pm10, pm25, so2"
+AU,Sydney North-west,"co, no2, o3, so2"
+AU,Sydney South-west,"no2, o3, pm10, pm25, so2"
+AU,Sydney South-west,"co, no2, o3, pm10, pm25, so2"
+AU,Sydney South-west,"co, no2, o3, pm10, pm25, so2"
+AU,Sydney South-west,"co, no2, o3, pm10, pm25, so2"
+AU,Sydney South-west,"co, no2, o3, pm10, pm25, so2"
+AU,Sydney South-west,"no2, o3, pm10, pm25, so2"
+NL,Amsterdam,pm10
+NL,Amsterdam,"co, no2, pm10, pm25"
+NL,Amsterdam,no2
+NL,Amsterdam,"no2, pm10, pm25, so2"
+NL,Amsterdam,"no2, pm10"
+NL,Amsterdam,no2
+NL,Amsterdam,"no2, o3"
+NL,Amsterdam,no2
+NL,Amsterdam,"no2, pm10, pm25"
+NL,Amsterdam,no2
+NL,Amsterdam,"no2, pm10, pm25"
+NL,Amsterdam,"co, no2, o3, pm10, pm25"
+NL,Amsterdam,"co, no2, o3, pm10, pm25"
+NL,Amsterdam,"pm10, pm25, so2"
+US,Athens,pm25
+US,Athens,"co, no2, o3, so2"
+US,Athens-Clarke County,"o3, pm10, pm25"
+ES,Barcelona,"co, no2, o3, so2"
+ES,Barcelona,no2
+ES,Barcelona,"no2, pm10"
+ES,Barcelona,"no2, o3, pm10, so2"
+ES,Barcelona,no2
+ES,Barcelona,"co, no2, o3, so2"
+ES,Barcelona,"co, no2, o3, so2"
+ES,Barcelona,no2
+ES,Barcelona,"co, no2, o3, so2"
+ES,Barcelona,"no2, o3, pm10"
+ES,Barcelona,o3
+ES,Barcelona,"no2, o3"
+ES,Barcelona,"no2, o3"
+ES,Barcelona,"no2, o3, pm10, so2"
+ES,Barcelona,"co, no2, o3, so2"
+ES,Barcelona,no2
+ES,Barcelona,"no2, o3, so2"
+ES,Barcelona,"co, no2, o3, so2"
+ES,Barcelona,no2
+ES,Barcelona,"co, no2, o3, so2"
+ES,Barcelona,no2
+ES,Barcelona,o3
+ES,Barcelona,"no2, o3"
+ES,Barcelona,"co, no2, o3, pm10, so2"
+ES,Barcelona,"no2, so2"
+ES,Barcelona,"co, no2, o3, so2"
+ES,Barcelona,no2
+ES,Barcelona,"no2, o3"
+ES,Barcelona,"co, no2, o3, so2"
+ES,Barcelona,"no2, pm10, so2"
+ES,Barcelona,"co, no2, o3, so2"
+ES,Barcelona,"no2, so2"
+ES,Barcelona,"co, no2, o3, so2"
+ES,Barcelona,"no2, o3, pm10"
+ES,Barcelona,"no2, o3, so2"
+ES,Barcelona,no2
+ES,Barcelona,"co, no2, o3, so2"
+ES,Barcelona,"co, no2, o3, so2"
+ES,Barcelona,"no2, o3"
+ES,Barcelona,"no2, so2"
+ES,Barcelona,"no2, so2"
+ES,Barcelona,"co, no2, o3, so2"
+ES,Barcelona,"co, no2, o3, so2"
+ES,Barcelona,"no2, so2"
+ES,Barcelona,"no2, so2"
+DE,Berlin,"no2, o3, pm10"
+DE,Berlin,no2
+DE,Berlin,"no2, o3"
+DE,Berlin,"no2, o3, pm10"
+DE,Berlin,"no2, o3, pm10"
+DE,Berlin,"no2, o3, pm10"
+DE,Berlin,"no2, o3, pm10"
+DE,Berlin,"co, no2, pm10"
+DE,Berlin,"no2, o3"
+DE,Berlin,"no2, pm10"
+DE,Berlin,"no2, pm10"
+DE,Berlin,"co, no2, o3, pm10, so2"
+DE,Berlin,"no2, so2"
+DE,Berlin,no2
+DE,Berlin,"no2, pm10"
+DE,Berlin,"no2, pm10"
+US,Berlin,o3
+US,Berlin,o3
+US,Berlin,o3
+US,Berlin,o3
+TR,İstanbul,"co, no2, o3, pm10, so2"
+TR,İstanbul,"co, no2, o3, pm10, so2"
+TR,İstanbul,"co, no2, o3, pm10, so2"
+TR,İstanbul,"co, no2, o3, pm10, so2"
+TR,İstanbul,"o3, pm10"
+TR,İstanbul,"co, no2, o3, pm10"
+TR,İstanbul,"co, no2, o3, pm10, so2"
+TR,İstanbul,"no2, o3, pm10, so2"
+TR,İstanbul,"o3, pm10"
+TR,İstanbul,"co, no2, o3, pm10, so2"
+TR,İstanbul,"no2, o3, so2"
+TR,İstanbul,"o3, pm10"
+TR,İstanbul,"co, no2, pm10, so2"
+TR,İstanbul,"pm10, so2"
+TR,İstanbul,"co, no2, o3, pm10"
+TR,İstanbul,"co, no2, o3, pm10, so2"
+TR,İstanbul,"co, no2, pm10"
+TR,İstanbul,"pm10, so2"
+TR,İstanbul,"co, no2, o3, pm10"
+TR,İstanbul,"no2, o3, pm10"
+TR,İstanbul,"no2, o3, pm10"
+TR,İstanbul,"co, no2, pm10, so2"
+TR,İstanbul,"no2, o3, so2"
+TR,İstanbul,"no2, o3, so2"
+TR,İstanbul,"co, no2, o3, pm10, so2"
+TR,İstanbul,"co, no2, pm10, so2"
+TR,İstanbul,"pm10, so2"
+TR,İstanbul,"co, no2, pm10"
+TR,İstanbul,"co, pm10, so2"
+GB,London,"no2, pm10, pm25"
+GB,London,pm10
+GB,London,"no2, pm25"
+GB,London,"no2, pm25"
+GB,London,"no2, o3, pm10, pm25, so2"
+GB,London,"no2, o3, pm25"
+GB,London,"no2, o3"
+GB,London,"no2, o3, pm10, pm25"
+GB,London,pm25
+GB,London,"no2, o3"
+GB,London,"no2, o3, pm10, pm25, so2"
+GB,London,"no2, o3, pm10, pm25, so2"
+GB,London,"no2, o3"
+GB,London,"pm10, pm25"
+GB,London,"no2, pm25"
+GB,London,"no2, o3, pm10, pm25"
+GB,London,"no2, pm10"
+GB,London,"no2, o3, pm10, so2"
+GB,London,no2
+US,Norwich-New London,"o3, pm10, pm25"
+ES,Madrid,"co, no2, so2"
+ES,Madrid,"co, no2, o3, pm10, pm25, so2"
+ES,Madrid,no2
+ES,Madrid,"co, no2, o3"
+ES,Madrid,"no2, o3, so2"
+ES,Madrid,"co, no2, o3, pm10, so2"
+ES,Madrid,"co, no2, o3, pm10, pm25, so2"
+ES,Madrid,"co, no2, o3, so2"
+ES,Madrid,"co, no2, pm10, so2"
+ES,Madrid,"co, no2, o3"
+ES,Madrid,"no2, pm10, pm25, so2"
+ES,Madrid,"no2, pm10, so2"
+ES,Madrid,"co, no2, o3, pm10, pm25, so2"
+ES,Madrid,"no2, o3, pm10"
+ES,Madrid,"no2, o3, pm10"
+ES,Madrid,"no2, o3, pm10, pm25"
+ES,Madrid,"co, no2, o3, pm10, so2"
+ES,Madrid,"no2, o3, pm10"
+ES,Madrid,"no2, o3, pm10"
+ES,Madrid,"co, no2, o3, pm10"
+ES,Madrid,"no2, o3"
+ES,Madrid,"no2, o3, pm10, pm25"
+ES,Madrid,"no2, o3, pm10"
+ES,Madrid,"co, no2, o3, pm10, pm25, so2"
+ES,Madrid,"no2, o3, pm25, so2"
+ES,Madrid,"no2, o3, pm10"
+ES,Madrid,"co, no2, o3, pm10, so2"
+ES,Madrid,"no2, o3, pm10"
+ES,Madrid,"no2, o3, pm10"
+ES,Madrid,"no2, o3, pm25"
+ES,Madrid,"co, no2, o3, pm10, pm25, so2"
+ES,Madrid,"no2, o3, pm25"
+ES,Madrid,"no2, o3, pm25"
+ES,Madrid,"no2, o3, pm10, pm25"
+ES,Madrid,"no2, o3, pm25"
+ES,Madrid,"no2, pm10, pm25"
+ES,Madrid,"no2, pm10, pm25"
+ES,Madrid,"no2, o3"
+ES,Madrid,"no2, pm10, pm25"
+ES,Madrid,"no2, o3"
+ES,Madrid,"no2, pm10"
+ES,Madrid,"co, no2, o3, pm10, pm25"
+ES,Madrid,"co, no2, pm10, so2"
+ES,Madrid,"no2, o3"
+ES,Madrid,"no2, o3"
+ES,Madrid,"no2, o3, pm10"
+ES,Madrid,"no2, o3, pm10, pm25"
+IT,Milano,"co, no2"
+IT,Milano,"co, no2"
+IT,Milano,"co, no2"
+IT,Milano,no2
+IT,Milano,no2
+IT,Milano,"co, no2, o3, so2"
+IT,Milano,"co, no2"
+IT,Milano,"co, no2"
+IT,Milano,"no2, o3"
+IT,Milano,"co, no2"
+IT,Milano,no2
+IT,Milano,"no2, o3, so2"
+IT,Milano,"co, no2"
+RU,Moscow,"co, no2"
+RU,Moscow,"co, no2, so2"
+RU,Moscow,"co, no2"
+RU,Moscow,"co, no2, pm10, so2"
+RU,Moscow,"co, no2"
+RU,Moscow,"co, no2, so2"
+RU,Moscow,"co, no2, so2"
+RU,Moscow,"co, no2, pm10, so2"
+RU,Moscow,"co, no2, pm10, so2"
+RU,Moscow,"co, no2"
+RU,Moscow,"co, no2, pm10"
+RU,Moscow,"co, no2"
+RU,Moscow,"co, no2"
+RU,Moscow,"co, no2"
+RU,Moscow,"co, no2, so2"
+RU,Moscow,"co, no2, so2"
+RU,Moscow,"co, no2, so2"
+RU,Moscow,"co, no2"
+RU,Moscow,co
+RU,Moscow,"co, no2, so2"
+RU,Moscow,"co, no2"
+RU,Moscow,"co, no2, pm10, so2"
+RU,Moscow,"co, no2, pm10, so2"
+RU,Moscow,"co, no2, pm10"
+RU,Moscow,"co, no2, pm10"
+RU,Moscow,"co, no2, so2"
+RU,Moscow,"co, no2, pm10"
+RU,Moscow,"co, no2, pm10, so2"
+RU,Moscow,"no2, so2"
+RU,Moscow,"co, no2"
+RU,Moscow,"co, no2"
+RU,Moscow,"co, no2, pm10, so2"
+RU,Moscow,"co, no2"
+RU,Moscow,co
+RU,Moscow,"co, no2"
+RU,Moscow,"co, no2"
+RU,Moscow,"co, no2"
+RU,Moscow,co
+RU,Moscow,"co, no2, pm10, so2"
+RU,Moscow,"co, no2, so2"
+RU,Moscow,"co, no2"
+RU,Moscow,"co, no2"
+RU,Moscow,"co, no2"
+RU,Moscow,"no2, so2"
+RU,Moscow,"co, no2"
+RU,Moscow,"co, no2, pm10"
+RU,Moscow,"co, no2, pm10"
+RU,Moscow,"co, no2"
+US,Moscow,pm25
+NO,Oslo,"no2, pm10"
+NO,Oslo,"no2, pm10, pm25"
+NO,Oslo,"no2, pm10, pm25"
+NO,Oslo,"no2, pm10, pm25"
+NO,Oslo,"no2, pm10, pm25"
+NO,Oslo,"no2, pm10, pm25"
+NO,Oslo,"no2, o3, so2"
+NO,Oslo,"no2, pm10, pm25"
+NO,Oslo,"co, no2, pm10, pm25"
+NO,Oslo,"no2, pm10, pm25"
+NO,Oslo,"no2, pm10, pm25"
+NO,Oslo,"pm10, pm25"
+NO,Oslo,"no2, pm10, pm25"
+NO,Oslo,"no2, o3, pm10, pm25, so2"
+FR,Paris,"no2, o3, pm10"
+FR,Paris,"co, no2, pm10"
+FR,Paris,no2
+FR,Paris,no2
+FR,Paris,"no2, pm10"
+FR,Paris,"no2, pm10"
+FR,Paris,"no2, o3"
+FR,Paris,no2
+FR,Paris,no2
+FR,Paris,no2
+FR,Paris,"no2, pm10"
+FR,Paris,"no2, pm10"
+FR,Paris,"no2, pm10"
+FR,Paris,no2
+FR,Paris,no2
+FR,Paris,no2
+FR,Paris,no2
+FR,Paris,"co, no2, o3, pm10, pm25"
+FR,Paris,"co, no2, o3, pm10, pm25"
+FR,Paris,"no2, pm10"
+FR,Paris,"no2, pm10, pm25"
+FR,Paris,"no2, pm10, pm25"
+CL,Catemu,"co, no2, o3, pm10, pm25, so2"
+US,JEROME,pm25
+US,Rome,"pm25, so2"
+US,Rome,so2
+US,Utica-Rome,o3
+US,Utica-Rome,pm25
+NL,Rotterdam,"no2, o3, pm10, pm25"
+NL,Rotterdam,"no2, pm10, pm25"
+NL,Rotterdam,"no2, o3, pm10, pm25"
+NL,Rotterdam Zuid,"no2, pm10, pm25"
+NL,Rotterdam Zuid,"no2, pm10, pm25"
+SE,Stockholm,no2
+SE,Stockholm,"no2, pm10"
+SE,Stockholm,"no2, pm10"
+SE,Stockholm,no2
+SE,Stockholm,"no2, o3, pm10, pm25"
+SE,Stockholm,"no2, pm10, pm25"
+SE,Stockholm,"no2, pm10"
+SE,Stockholm,"no2, o3, pm10, pm25"
+SE,Stockholm,"no2, pm10, pm25"
+SE,Stockholm,"no2, pm10, pm25"
+SE,Stockholm,"no2, o3, pm10"
+SE,Stockholm,"no2, pm10"
+SE,Stockholm,"pm10, pm25"
+SE,Stockholm,"no2, pm10"
+SE,Stockholm,"no2, pm10"
+SE,Stockholm,o3
+SE,Stockholm,pm10
+SE,Stockholm,"no2, pm10"
+SE,Stockholm,"no2, pm10"
+SE,Stockholm,"pm10, pm25"
+SE,Stockholm,"no2, pm10"
+SE,Stockholm,"no2, pm10, pm25"
+SE,Stockholm,"no2, pm10, pm25"
+SE,Stockholm,"no2, o3, pm10, pm25"
+US,Sarasota-Bradenton-Venice,o3
+US,Sarasota-Bradenton-Venice,pm25
+US,Sarasota-Bradenton-Venice,o3
+US,Sarasota-Bradenton-Venice,"o3, pm25"
+US,Sarasota-Bradenton-Venice,o3
+US,Sarasota-Bradenton-Venice,"no2, o3, pm10"
+US,Sarasota-Bradenton-Venice,o3
+AR,Buenos Aires,"co, no2, pm10"
+AR,Buenos Aires,"co, no2, pm10"
+AR,Buenos Aires,"co, no2, pm10"
+AR,Buenos Aires,pm25
+ES,Guadalajara,"no2, o3, so2"
+ES,Guadalajara,"no2, o3, so2"
+ES,Guadalajara,"co, no2, o3, pm10, so2"
+FR,Corrèze,"no2, o3, pm10"
+FR,Corrèze,"no2, o3, pm10"
+FR,Corrèze,"no2, pm25"
+FR,Creuse,"no2, o3, pm10"
+FR,Creuse,o3
+FR,Haute-Vienne,"no2, o3, pm10, so2"
+FR,Haute-Vienne,"no2, o3, pm10, pm25"
+FR,Haute-Vienne,"o3, pm10"
+FR,Haute-Vienne,"no2, pm10"
+FR,Haute-Vienne,"no2, pm10, so2"
+IN,Delhi,"co, no2, o3, pm10, pm25, so2"
+PE,Lima,"co, no2, o3, pm10, pm25, so2"
+PE,Lima,"co, no2, o3, pm10, pm25, so2"
+PE,Lima,"co, no2, o3, pm10, pm25, so2"
+PE,Lima,"co, no2, o3, pm10, pm25, so2"
+PE,Lima,"co, no2, o3, pm10, pm25, so2"
+PE,Lima,"co, no2, o3, pm10, pm25, so2"
+PE,Lima,"co, no2, o3, pm10, pm25, so2"
+PE,Lima,"co, no2, o3, pm10, pm25, so2"
+PE,Lima,"co, no2, o3, pm10, pm25, so2"
+PE,Lima,"co, no2, o3, pm10, pm25, so2"
+PE,Lima,pm25
+PE,Lima,pm25
+PE,Lima,"co, no2, o3, pm10, pm25, so2"
+US,Lima,"o3, pm25, so2"
+US,Willimantic,o3
+CL,Santiago,"co, no2, o3, pm10, pm25, so2"
+CL,Santiago,"pm10, pm25"
+BR,São Paulo,"no2, o3, pm10"
+BR,São Paulo,"no2, o3, pm25"
+BR,São Paulo,"co, no2, pm10, pm25, so2"
+BR,São Paulo,"co, no2, o3, pm25"
+BR,São Paulo,"no2, o3, pm10, so2"
+BR,São Paulo,"o3, pm10, pm25"
+BR,São Paulo,o3
+BR,São Paulo,"co, no2, pm10, pm25, so2"
+BR,São Paulo,"co, o3, pm10"
+BR,São Paulo,"o3, pm10"
+BR,São Paulo,"co, no2, o3, pm10, pm25"
+BR,São Paulo,"co, no2, o3, pm10, pm25"
+BR,São Paulo,"o3, pm25"
+BR,São Paulo,"co, o3, pm10"
+US,Austin-Round Rock,"o3, pm25"
+US,Austin-Round Rock,"o3, pm25"
+US,Austin-Round Rock,pm25
+US,Austin-Round Rock,o3
+US,Austin-Round Rock,o3
+US,Austin-Round Rock,o3
+US,Austin-Round Rock,o3
+US,Austin-Round Rock,o3
+US,Austin-Round Rock,o3
+US,Austin-Round Rock,o3
+US,Austin-Round Rock,o3
+US,Boston-Cambridge-Quincy,"no2, so2"
+US,Boston-Cambridge-Quincy,pm25
+US,Boston-Cambridge-Quincy,"co, no2, o3, pm25, so2"
+US,Boston-Cambridge-Quincy,o3
+US,Boston-Cambridge-Quincy,"no2, o3"
+US,Boston-Cambridge-Quincy,"o3, pm25"
+US,Boston-Cambridge-Quincy,"co, no2, o3, pm25"
+US,Boston-Cambridge-Quincy,o3
+US,Boston-Cambridge-Quincy,o3
+US,Boston-Cambridge-Quincy,"o3, pm10, pm25, so2"
+US,Chicago-Naperville-Joliet,"o3, pm25"
+US,Chicago-Naperville-Joliet,"o3, pm25"
+US,Chicago-Naperville-Joliet,"o3, pm25"
+US,Chicago-Naperville-Joliet,"o3, pm25"
+US,Chicago-Naperville-Joliet,pm25
+US,Chicago-Naperville-Joliet,o3
+US,Chicago-Naperville-Joliet,o3
+US,Chicago-Naperville-Joliet,"o3, pm25"
+US,Chicago-Naperville-Joliet,o3
+US,Chicago-Naperville-Joliet,"o3, pm25"
+US,Chicago-Naperville-Joliet,co
+US,Chicago-Naperville-Joliet,o3
+US,Chicago-Naperville-Joliet,o3
+US,Chicago-Naperville-Joliet,"bc, no2, o3, pm10, pm25, so2"
+US,Chicago-Naperville-Joliet,"o3, so2"
+US,Chicago-Naperville-Joliet,pm25
+US,Chicago-Naperville-Joliet,pm25
+US,Chicago-Naperville-Joliet,o3
+US,Chicago-Naperville-Joliet,o3
+US,Chicago-Naperville-Joliet,pm25
+US,Chicago-Naperville-Joliet,"o3, pm25"
+US,Chicago-Naperville-Joliet,"o3, pm25"
+US,Chicago-Naperville-Joliet,pm10
+US,Chicago-Naperville-Joliet,o3
+US,Chicago-Naperville-Joliet,o3
+US,Chicago-Naperville-Joliet,o3
+US,Houston,o3
+US,Houston,o3
+US,Houston,o3
+US,Houston,"no2, o3"
+US,Houston,"co, no2, o3, so2"
+US,Houston,"no2, o3"
+US,Houston,o3
+US,Houston,"no2, o3"
+US,Houston,so2
+US,Houston,"no2, o3"
+US,Houston,"no2, o3"
+US,Houston,"no2, o3"
+US,Houston,"o3, so2"
+US,Houston,"no2, o3"
+US,Houston,"o3, so2"
+US,Houston,"co, no2"
+US,Houston,"o3, so2"
+US,Houston,no2
+US,Houston,"no2, o3"
+US,Houston,o3
+US,Houston,"no2, o3"
+US,Houston,o3
+US,Houston,o3
+US,Houston,"no2, o3"
+US,Houston,"no2, o3"
+US,Houston,o3
+US,Houston,"no2, o3"
+US,Houston,"no2, o3"
+US,Houston,o3
+US,Houston,o3
+US,Houston,"no2, o3"
+US,Houston,"no2, o3"
+US,Houston,"no2, o3, so2"
+US,Houston,o3
+US,Houston,"no2, o3"
+US,Houston,so2
+US,Houston,o3
+US,Houston,"co, o3"
+US,Houston,"co, o3"
+US,Houston,"co, o3"
+US,Houston,"co, o3"
+US,Houston,o3
+US,Houston,"no2, o3"
+US,Houston,o3
+US,Houston-Sugar Land-Baytown,pm25
+US,Houston-Sugar Land-Baytown,"o3, so2"
+US,Houston-Sugar Land-Baytown,o3
+US,Houston-Sugar Land-Baytown,"o3, pm25"
+US,Houston-Sugar Land-Baytown,"o3, pm25"
+US,Houston-Sugar Land-Baytown,"o3, pm25"
+US,Houston-Sugar Land-Baytown,"o3, pm25"
+US,Houston-Sugar Land-Baytown,o3
+US,Houston-Sugar Land-Baytown,o3
+US,Houston-Sugar Land-Baytown,"co, no2, o3, pm10, pm25, so2"
+US,Houston-Sugar Land-Baytown,"o3, pm25"
+US,Houston-Sugar Land-Baytown,o3
+US,Houston-Sugar Land-Baytown,o3
+US,Houston-Sugar Land-Baytown,"no2, o3, pm25, so2"
+US,Houston-Sugar Land-Baytown,o3
+US,Houston-Sugar Land-Baytown,pm25
+US,Houston-Sugar Land-Baytown,o3
+US,Houston-Sugar Land-Baytown,o3
+US,Houston-Sugar Land-Baytown,o3
+US,Houston-Sugar Land-Baytown,o3
+US,Houston-Sugar Land-Baytown,o3
+US,Houston-Sugar Land-Baytown,"o3, pm25"
+CL,Los Angeles,"pm10, pm25"
+CL,Los Angeles,"pm10, pm25"
+US,LOS ANGELES,"no2, pm25"
+US,LOS ANGELES,"co, no2, o3"
+US,Los Angeles-Long Beach-Santa Ana,"co, no2, o3, pm10, pm25"
+US,Los Angeles-Long Beach-Santa Ana,"o3, pm10, pm25"
+US,Los Angeles-Long Beach-Santa Ana,"co, no2, o3"
+US,Los Angeles-Long Beach-Santa Ana,o3
+US,Los Angeles-Long Beach-Santa Ana,"co, no2, o3, pm25"
+US,Los Angeles-Long Beach-Santa Ana,o3
+US,Los Angeles-Long Beach-Santa Ana,"co, no2, o3, so2"
+US,Los Angeles-Long Beach-Santa Ana,"co, no2, o3, pm10, pm25"
+US,Los Angeles-Long Beach-Santa Ana,"co, no2, o3"
+US,Los Angeles-Long Beach-Santa Ana,o3
+US,Los Angeles-Long Beach-Santa Ana,"o3, pm10, pm25"
+US,Los Angeles-Long Beach-Santa Ana,o3
+US,Los Angeles-Long Beach-Santa Ana,"co, no2, o3, so2"
+US,Los Angeles-Long Beach-Santa Ana,"co, no2, o3, so2"
+US,Los Angeles-Long Beach-Santa Ana,o3
+US,Los Angeles-Long Beach-Santa Ana,"co, no2, o3, so2"
+US,Los Angeles-Long Beach-Santa Ana,"co, no2, o3, pm10, pm25, so2"
+US,Los Angeles-Long Beach-Santa Ana,"co, no2, o3, pm10, pm25, so2"
+US,Los Angeles-Long Beach-Santa Ana,"co, o3, pm25"
+US,Los Angeles-Long Beach-Santa Ana,o3
+US,Los Angeles-Long Beach-Santa Ana,"no2, o3, pm25"
+US,Los Angeles-Long Beach-Santa Ana,"co, no2, o3"
+US,Los Angeles-Long Beach-Santa Ana,o3
+US,Los Angeles-Long Beach-Santa Ana,o3
+US,Los Angeles-Long Beach-Santa Ana,"co, no2, o3"
+US,Los Angeles-Long Beach-Santa Ana,"co, no2, o3, pm25"
+US,Los Angeles-Long Beach-Santa Ana,"co, no2, o3, pm25"
+US,Los Angeles-Long Beach-Santa Ana,pm25
+US,Los Angeles-Long Beach-Santa Ana,"co, no2, o3"
+US,Los Angeles-Long Beach-Santa Ana,"co, no2, o3"
+US,Miami,"o3, pm25"
+US,MIAMI - DADE,"co, no2"
+US,MIAMI - DADE,no2
+US,Miami-Fort Lauderdale-Miami Beach,pm25
+US,Miami-Fort Lauderdale-Miami Beach,"no2, o3"
+US,Miami-Fort Lauderdale-Miami Beach,pm25
+US,Miami-Fort Lauderdale-Miami Beach,"co, pm25"
+US,Miami-Fort Lauderdale-Miami Beach,"no2, o3, pm10"
+US,Miami-Fort Lauderdale-Miami Beach,pm25
+US,Miami-Fort Lauderdale-Miami Beach,"co, o3, pm25, so2"
+US,Miami-Fort Lauderdale-Miami Beach,"co, no2, pm25"
+US,Miami-Fort Lauderdale-Miami Beach,o3
+US,Miami-Fort Lauderdale-Miami Beach,"o3, pm25"
+US,Miami-Fort Lauderdale-Miami Beach,"no2, o3"
+US,Miami-Fort Lauderdale-Miami Beach,"o3, pm25"
+US,New Orleans-Metairie-Kenner,"pm25, so2"
+US,New Orleans-Metairie-Kenner,pm25
+US,New Orleans-Metairie-Kenner,o3
+US,New Orleans-Metairie-Kenner,"o3, pm25"
+US,New Orleans-Metairie-Kenner,"o3, pm25"
+US,PHILADELPHIA,pm25
+US,PHILADELPHIA,"co, no2, pm25"
+US,PHILADELPHIA,pm25
+US,PHILADELPHIA,"co, no2, o3, pm10, pm25, so2"
+US,PHILADELPHIA,"pm25, so2"
+US,PHILADELPHIA,"co, no2, pm25"
+US,Philadelphia-Camden-Wilmington,o3
+US,Philadelphia-Camden-Wilmington,o3
+US,Philadelphia-Camden-Wilmington,"o3, so2"
+US,Philadelphia-Camden-Wilmington,o3
+US,Philadelphia-Camden-Wilmington,"co, no2, o3, pm25, so2"
+US,Philadelphia-Camden-Wilmington,"o3, pm25"
+US,Philadelphia-Camden-Wilmington,o3
+US,Philadelphia-Camden-Wilmington,"o3, pm25"
+US,Philadelphia-Camden-Wilmington,o3
+US,Philadelphia-Camden-Wilmington,o3
+US,Philadelphia-Camden-Wilmington,o3
+US,Philadelphia-Camden-Wilmington,"o3, pm25, so2"
+US,Philadelphia-Camden-Wilmington,pm25
+US,Philadelphia-Camden-Wilmington,"co, o3, pm25, so2"
+US,Philadelphia-Camden-Wilmington,o3
+US,Philadelphia-Camden-Wilmington,"o3, pm25"
+US,Philadelphia-Camden-Wilmington,"o3, pm25"
+US,Phoenix Lake-Cedar Ridge,o3
+US,Phoenix Lake-Cedar Ridge,o3
+US,Phoenix-Mesa-Scottsdale,o3
+US,Phoenix-Mesa-Scottsdale,pm10
+US,Phoenix-Mesa-Scottsdale,o3
+US,Phoenix-Mesa-Scottsdale,"co, no2, o3, pm10"
+US,Phoenix-Mesa-Scottsdale,"pm10, pm25"
+US,Phoenix-Mesa-Scottsdale,"pm10, pm25"
+US,Phoenix-Mesa-Scottsdale,o3
+US,Phoenix-Mesa-Scottsdale,"co, no2, o3, pm10, so2"
+US,Phoenix-Mesa-Scottsdale,o3
+US,Phoenix-Mesa-Scottsdale,pm10
+US,Phoenix-Mesa-Scottsdale,"co, no2, pm25"
+US,Phoenix-Mesa-Scottsdale,"pm10, pm25, so2"
+US,Phoenix-Mesa-Scottsdale,"o3, pm10"
+US,Phoenix-Mesa-Scottsdale,o3
+US,Phoenix-Mesa-Scottsdale,o3
+US,Phoenix-Mesa-Scottsdale,"o3, pm10"
+US,Phoenix-Mesa-Scottsdale,"o3, pm10, pm25"
+US,Phoenix-Mesa-Scottsdale,"co, no2, pm10"
+US,Phoenix-Mesa-Scottsdale,"o3, pm10"
+US,Phoenix-Mesa-Scottsdale,pm10
+US,Phoenix-Mesa-Scottsdale,pm10
+US,Phoenix-Mesa-Scottsdale,o3
+US,Phoenix-Mesa-Scottsdale,"o3, pm10"
+US,Phoenix-Mesa-Scottsdale,pm10
+US,Phoenix-Mesa-Scottsdale,"co, o3, pm10, pm25"
+US,Phoenix-Mesa-Scottsdale,"o3, pm10, pm25"
+US,Phoenix-Mesa-Scottsdale,"co, no2, o3, pm10, pm25, so2"
+US,Phoenix-Mesa-Scottsdale,"o3, pm10"
+US,Phoenix-Mesa-Scottsdale,pm10
+US,Phoenix-Mesa-Scottsdale,o3
+US,Phoenix-Mesa-Scottsdale,o3
+US,Phoenix-Mesa-Scottsdale,o3
+US,Phoenix-Mesa-Scottsdale,o3
+US,Phoenix-Mesa-Scottsdale,"o3, pm10"
+US,Phoenix-Mesa-Scottsdale,"co, o3, pm10, pm25"
+US,Phoenix-Mesa-Scottsdale,"o3, pm10"
+US,Phoenix-Mesa-Scottsdale,pm10
+US,Phoenix-Mesa-Scottsdale,"o3, pm10, pm25"
+US,Phoenix-Mesa-Scottsdale,"co, no2, pm25"
+US,Phoenix-Mesa-Scottsdale,pm10
+US,Phoenix-Mesa-Scottsdale,"co, o3, pm10"
+US,Phoenix-Mesa-Scottsdale,"co, no2, o3, pm10, pm25"
+US,Phoenix-Mesa-Scottsdale,pm10
+US,Portland-South Portland-Biddeford,o3
+US,Portland-South Portland-Biddeford,o3
+US,Portland-South Portland-Biddeford,"no2, o3, pm25, so2"
+US,Portland-South Portland-Biddeford,o3
+US,Portland-South Portland-Biddeford,o3
+US,Portland-Vancouver-Beaverton,pm25
+US,Portland-Vancouver-Beaverton,pm25
+US,Portland-Vancouver-Beaverton,"bc, pm25"
+US,Portland-Vancouver-Beaverton,"bc, pm25"
+US,Portland-Vancouver-Beaverton,"bc, co, no2, o3, pm25"
+US,Portland-Vancouver-Beaverton,"o3, pm25"
+US,Portland-Vancouver-Beaverton,"bc, co, no2, o3, pm25, so2"
+US,Portland-Vancouver-Beaverton,"o3, pm25"
+US,Portland-Vancouver-Beaverton,o3
+US,Portland-Vancouver-Beaverton,o3
+US,ALAMEDA,"bc, co, no2, o3, pm25"
+US,San Francisco-Oakland-Fremont,"co, no2, o3, so2"
+US,San Francisco-Oakland-Fremont,"co, no2, o3, pm25, so2"
+US,San Francisco-Oakland-Fremont,o3
+US,San Francisco-Oakland-Fremont,"bc, co, no2, pm25"
+US,San Francisco-Oakland-Fremont,"bc, no2, o3, pm25"
+US,San Francisco-Oakland-Fremont,"co, no2, o3, pm25"
+US,San Francisco-Oakland-Fremont,"bc, co, no2, o3, pm25, so2"
+US,San Francisco-Oakland-Fremont,"no2, o3"
+US,San Francisco-Oakland-Fremont,"co, no2, pm25"
+US,San Francisco-Oakland-Fremont,"co, no2, o3, pm25"
+US,San Francisco-Oakland-Fremont,so2
+US,San Francisco-Oakland-Fremont,"co, no2, o3, pm25"
+US,San Francisco-Oakland-Fremont,"co, no2, o3, pm25, so2"
+US,San Francisco-Oakland-Fremont,"co, no2, o3, pm25"
+US,San Francisco-Oakland-Fremont,"no2, o3"
+US,Seattle-Tacoma-Bellevue,pm25
+US,Seattle-Tacoma-Bellevue,pm25
+US,Seattle-Tacoma-Bellevue,pm25
+US,Seattle-Tacoma-Bellevue,o3
+US,Seattle-Tacoma-Bellevue,o3
+US,Seattle-Tacoma-Bellevue,pm25
+US,Seattle-Tacoma-Bellevue,pm25
+US,Seattle-Tacoma-Bellevue,pm25
+US,Seattle-Tacoma-Bellevue,pm25
+US,Seattle-Tacoma-Bellevue,pm25
+US,Seattle-Tacoma-Bellevue,o3
+US,Seattle-Tacoma-Bellevue,"o3, pm25"
+US,Seattle-Tacoma-Bellevue,pm25
+US,Seattle-Tacoma-Bellevue,"bc, co, no2, pm25"
+US,Seattle-Tacoma-Bellevue,"co, no2, o3, pm25, so2"
+US,Seattle-Tacoma-Bellevue,pm25
+US,Seattle-Tacoma-Bellevue,pm25
+US,Seattle-Tacoma-Bellevue,pm25
+US,Seattle-Tacoma-Bellevue,pm25
+US,Seattle-Tacoma-Bellevue,pm25
+US,Seattle-Tacoma-Bellevue,"no2, pm25"
+US,Seattle-Tacoma-Bellevue,pm25
+US,Seattle-Tacoma-Bellevue,pm25
+US,Portland-Vancouver-Beaverton,pm25
+US,Portland-Vancouver-Beaverton,pm25
+US,Portland-Vancouver-Beaverton,"bc, pm25"
+US,Portland-Vancouver-Beaverton,"bc, pm25"
+US,Portland-Vancouver-Beaverton,"bc, co, no2, o3, pm25"
+US,Portland-Vancouver-Beaverton,"o3, pm25"
+US,Portland-Vancouver-Beaverton,"bc, co, no2, o3, pm25, so2"
+US,Portland-Vancouver-Beaverton,"o3, pm25"
+US,Portland-Vancouver-Beaverton,o3
+US,Portland-Vancouver-Beaverton,o3
+US,Washington,o3
+US,WASHINGTON,"o3, pm10, pm25"
+US,WASHINGTON,o3
+US,WASHINGTON,pm25
+US,WASHINGTON,"o3, pm25"
+US,WASHINGTON,"no2, o3, pm25"
+US,WASHINGTON,o3
+US,WASHINGTON,o3
+US,WASHINGTON,"bc, no2, o3, pm10, pm25, so2"
+US,WASHINGTON,"o3, pm25"
+US,WASHINGTON,"no2, o3"
+US,WASHINGTON,co
+US,WASHINGTON,pm25
+US,Washington-Arlington-Alexandria,"no2, o3"
+US,Washington-Arlington-Alexandria,"co, no2, o3"
+US,Washington-Arlington-Alexandria,"o3, so2"
+US,Washington-Arlington-Alexandria,o3
+US,Washington-Arlington-Alexandria,"co, no2, pm25"
+US,Washington-Arlington-Alexandria,"o3, pm25, so2"
+US,Washington-Arlington-Alexandria,o3
+US,Washington-Arlington-Alexandria,"bc, co, no2, o3, pm25, so2"
+US,Washington-Arlington-Alexandria,"no2, o3"
+US,Washington-Arlington-Alexandria,pm25
+US,Washington-Arlington-Alexandria,pm25
+US,Washington-Arlington-Alexandria,o3
+US,Washington-Arlington-Alexandria,"co, no2, o3, pm25, so2"
+US,Washington-Arlington-Alexandria,"o3, pm25"
+US,Washington-Arlington-Alexandria,o3
+US,Washington-Arlington-Alexandria,o3
+US,Washington-Arlington-Alexandria,o3
+JO,Amman,pm25
+IN,Bengaluru,"co, no2, o3, pm10, pm25, so2"
+IN,Bengaluru,"co, no2, o3, pm25, so2"
+IN,Bengaluru,"co, no2, o3, pm25, so2"
+IN,Bengaluru,"co, no2, o3, pm25, so2"
+IN,Bengaluru,"co, no2, o3, pm25, so2"
+IN,Bengaluru,"co, no2, pm10, so2"
+IN,Bengaluru,"co, no2, pm10, so2"
+IN,Bengaluru,"co, no2, o3, pm10, pm25, so2"
+IN,Bengaluru,"co, no2, o3, pm10, pm25, so2"
+IN,Bengaluru,"co, no2, o3, pm10, pm25, so2"
+IN,Bengaluru,"co, no2, pm25, so2"
+IN,Bengaluru,"co, no2, pm25, so2"
+IN,Bengaluru,"co, no2, pm10, so2"
+IN,Bengaluru,"co, no2, pm10, so2"
+IN,Bengaluru,"co, no2, o3, pm10, pm25, so2"
+IN,Chennai,"co, no2, o3, pm25, so2"
+IN,Chennai,"co, no2, o3, pm25, so2"
+IN,Chennai,"co, no2, o3, pm25, so2"
+IN,Chennai,"co, no2, pm25, so2"
+IN,Chennai,"co, no2, o3, pm10, pm25, so2"
+IN,Chennai,"co, no2, o3, pm10, pm25, so2"
+IN,Chennai,pm25
+IN,Chennai,pm25
+IN,Chennai,"co, no2, o3, pm25, so2"
+IN,Delhi,"co, no2, o3, pm10, pm25, so2"
+IN,Delhi,"co, no2, o3, pm10, pm25, so2"
+IN,Delhi,"co, no2, o3, pm10, pm25, so2"
+IN,Delhi,"co, no2, o3, pm10, pm25, so2"
+IN,Delhi,"co, no2, o3, pm10, pm25, so2"
+IN,Delhi,"co, no2, o3, pm10, pm25, so2"
+IN,Delhi,"co, no2, o3, pm10, pm25"
+IN,Delhi,"co, no2, o3, pm10, pm25"
+IN,Delhi,"co, no2, o3, pm10, pm25"
+IN,Delhi,"co, no2, pm10, pm25"
+IN,Delhi,"co, no2, o3, pm10, pm25"
+IN,Delhi,"no2, o3, pm25"
+IN,Delhi,"co, no2, o3, pm10, pm25, so2"
+IN,Delhi,"co, no2, o3, pm10, pm25, so2"
+IN,Delhi,"co, no2, o3, pm10, pm25, so2"
+IN,Delhi,"co, no2, o3, pm10, pm25, so2"
+IN,Delhi,"co, no2, o3, pm10, pm25, so2"
+IN,Delhi,"no2, o3, so2"
+IN,Delhi,"no2, o3, so2"
+IN,Delhi,"co, no2, o3, pm10, pm25"
+IN,Delhi,"co, no2, o3, pm10, pm25"
+IN,Delhi,"co, no2, pm25, so2"
+IN,Delhi,"co, no2, o3, pm10, pm25, so2"
+IN,Delhi,"co, no2, pm25, so2"
+IN,Delhi,"co, no2, o3, pm10, pm25"
+IN,Delhi,"co, no2, o3, pm10, pm25, so2"
+IN,Delhi,"co, no2, o3, pm10, pm25, so2"
+IN,Delhi,"co, no2, o3, pm10, pm25, so2"
+IN,Delhi,"co, no2, o3, pm10, pm25, so2"
+IN,Delhi,"co, no2, o3, pm10, pm25, so2"
+IN,Delhi,"co, no2, o3, pm10, pm25, so2"
+IN,Delhi,"co, no2, o3, pm10, pm25"
+IN,Delhi,"co, no2, o3, pm10, pm25, so2"
+IN,Delhi,"co, no2, o3, pm10, pm25, so2"
+IN,Delhi,"co, no2, o3, pm10, pm25, so2"
+IN,Delhi,"co, no2, o3, pm10, pm25, so2"
+IN,Delhi,"co, no2, o3, pm10, pm25, so2"
+IN,Delhi,"co, no2, o3, pm10, pm25, so2"
+IN,Delhi,"co, no2, o3, pm10, pm25, so2"
+IN,Delhi,"co, no2, o3, pm10, pm25, so2"
+IN,Delhi,"co, no2, o3, pm10, pm25, so2"
+IN,Delhi,"co, no2, o3, pm10, pm25, so2"
+IN,Delhi,"co, no2, o3, pm10, pm25, so2"
+IN,Delhi,"co, no2, o3, pm10, pm25, so2"
+IN,Delhi,"co, no2, o3, pm10, pm25"
+IN,Delhi,"co, no2, o3, pm25, so2"
+IN,Delhi,"co, no2, o3, pm10, pm25, so2"
+IN,Delhi,"co, no2, o3, pm10, pm25, so2"
+IN,Delhi,"co, no2, o3, pm10, pm25, so2"
+IN,Delhi,"no2, o3, pm10, pm25, so2"
+IN,Delhi,"no2, o3, pm10, pm25, so2"
+IN,Delhi,"co, no2, o3, pm10, pm25, so2"
+IN,Delhi,"co, no2, o3, pm10, pm25, so2"
+IN,Delhi,"co, no2, o3, pm10, pm25, so2"
+IN,Delhi,"co, no2, o3, pm10, pm25, so2"
+IN,Delhi,"co, no2, o3, pm10, pm25"
+IN,Delhi,"co, no2, o3, pm10, pm25, so2"
+IN,Delhi,"co, no2, o3, pm10, pm25, so2"
+IN,Delhi,"co, no2, o3, pm10, pm25, so2"
+IN,Delhi,"co, no2, o3, pm10, pm25, so2"
+IN,Delhi,"co, no2, o3, pm10, pm25, so2"
+IN,Delhi,"co, no2, o3, pm25, so2"
+IN,Delhi,"co, no2, o3, pm10, pm25, so2"
+IN,Delhi,"co, no2, o3, pm10, pm25, so2"
+IN,Delhi,"co, no2, o3, pm10, pm25, so2"
+IN,Delhi,"co, no2, o3, pm10, pm25, so2"
+IN,Delhi,"co, no2, o3, pm10, pm25, so2"
+IN,Delhi,pm25
+IN,Delhi,"co, no2, o3, pm10, pm25, so2"
+IN,Delhi,"co, no2, o3, pm10, pm25, so2"
+IN,Delhi,"co, no2, o3, pm10, pm25, so2"
+IN,Delhi,"co, no2, o3, pm10, pm25, so2"
+IN,India,pm25
+BD,Dhaka,pm25
+BD,Dhaka,pm25
+BD,Dhaka,pm25
+AE,Dubai,"o3, pm25"
+IN, Alwar,"co, no2, o3, pm10, pm25, so2"
+IN,Jaipur,"co, no2, o3, pm10, pm25, so2"
+IN,Jaipur,"co, no2, o3, pm10, pm25, so2"
+IN,Jaipur,"co, no2, o3, pm10, pm25, so2"
+IN,Jaipur,"co, no2, o3, pm10, pm25, so2"
+IN,Jaipur,"co, no2, o3, pm10, pm25, so2"
+PK,N/A,pm25
+IN,India,pm25
+IN,Kolkata,"co, no2, o3, pm10, pm25, so2"
+IN,Kolkata,"co, no2, o3, pm10, pm25, so2"
+IN,Kolkata,"co, no2, o3, pm10, pm25, so2"
+IN,Kolkata,"co, no2, o3, pm10, pm25, so2"
+IN,Kolkata,"co, no2, o3, pm10, so2"
+IN,Kolkata,"co, no2, o3, pm10, pm25, so2"
+IN,Kolkata,"co, no2, o3, pm10, pm25, so2"
+IN,Kolkata,pm25
+IN,Kolkata,"co, no2, o3, pm10, pm25, so2"
+IN,Kolkata,"co, no2, o3, pm10, pm25, so2"
